@@ -5,7 +5,7 @@ import os
 import pandas as pd
 import subprocess
 
-BOT_TOKEN = "MTIwODk2NjUxMzcyNjU4Njk0MA.GQ_tip.C8Mg9KidiH7_abZLU2hoYIWQa4-M9sHIITunC4"
+BOT_TOKEN = ""
 CHANNEL_ID = 1209379948519882842
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 allowed_role = "tester"
