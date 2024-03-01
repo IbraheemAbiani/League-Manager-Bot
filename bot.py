@@ -9,11 +9,6 @@ BOT_TOKEN = "MTIwODk2NjUxMzcyNjU4Njk0MA.GQ_tip.C8Mg9KidiH7_abZLU2hoYIWQa4-M9sHII
 CHANNEL_ID = 1209379948519882842
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 allowed_role = "tester"
-#PHASES:
-#(1): Complete basic commands
-#(2): outputs in discord display box
-#(3): league table looks nice, stores data externally
-#(4): bot works on its own server, permissions etc. (CURRENT PHASE)
 #---------------------------------------------------------------------------------------------------------------------------------
 csv_file = 'teams.csv'
 df = pd.DataFrame() #declare df
