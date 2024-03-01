@@ -1,2 +1,2 @@
 # League-Manager-Bot
-This is a project I'm currently working on, its used to manage discord servers that host gaming tournaments.
+I built the league manager discord bot to be used in assisting groups that are organized in discord servers with coordinating gaming tournaments with ease. The bot has a list of commands that are called by users within the discord servers. Commands used for reading data such as viewing the league table can be called by any user while commands that write data can only be called by users which are assigned a special role within their discord server. This bot is hosted on bot-hosting.net so it can be called 24/7 and is currently being used in a gaming discord server.
